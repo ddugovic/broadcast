@@ -1,5 +1,7 @@
 {
   "pairings" : [ {
     "live" : false
+  }, {
+    "live" : false
   } ]
 }
