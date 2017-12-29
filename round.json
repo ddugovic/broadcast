@@ -1,7 +1,5 @@
 {
-  "round-1" : {
-    "pairings" : [
-      { "game-1.pgn" : {"live": true} }
-    ]
-  }
+  "pairings" : [
+    { "game-1.pgn" : {"live": true} }
+  ]
 }
